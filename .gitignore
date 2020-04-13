@@ -1,0 +1,14 @@
+# Development files and paths
+bin/
+CMakeFiles/
+*.cmake
+CMakeCache.txt
+Makefile
+UnrandomEarthstar
+
+# IDE files
+*.kdev4
+.kdev/
+
+# Other stuff, manuall additions
+images/out.png
